@@ -1,0 +1,5 @@
+# ignore these files
+*README.md
+*.zip
+*.otf
+*ttf
